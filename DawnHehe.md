@@ -102,7 +102,7 @@ loadinglabel2.TextSize = 15.000
 --// Scripts:
 loadinglabel2.Text = "Loaded!"
 wait(0.4)
-loadinglabel2.Text = "Founder SploitGodZ"
+loadinglabel2.Text = "Stolen By Dawn hehe L"
 wait(0.4)
 loadinglabel2.Text = "CypherBrew Command Prompt"
 wait(0.4)
